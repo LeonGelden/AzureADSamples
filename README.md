@@ -1,2 +1,2 @@
 # AzureADSamples
-Azure AD Samples eitehr created or taken from existing samples and updated for me
+Azure AD Samples either created or taken from existing samples and updated for me
